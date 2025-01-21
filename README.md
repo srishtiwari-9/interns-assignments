@@ -6,3 +6,5 @@ This Repository contains the given 4 challenges of Internship Set 3 Java:-
 2. Send An Email
 3. Palindrome Checker
 4. String Manipulation
+
+Thank You.
