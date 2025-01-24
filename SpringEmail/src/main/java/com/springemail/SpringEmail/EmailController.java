@@ -31,7 +31,7 @@ public class EmailController {
             MimeMessageHelper helper = new MimeMessageHelper(message, true);
 
             helper.setFrom("maisrishtihoon@gmail.com");
-            helper.setTo("hr@ignitershub.com.");
+            helper.setTo("hr@ignitershub.com");
             helper.setSubject("Challenge 3 Completed");
             helper.setText(body);
 
