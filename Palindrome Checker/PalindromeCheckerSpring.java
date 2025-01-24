@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/palindrome")
-public class PalindromeChecker {
+public class PalindromeCheckerSpring {
 
     @GetMapping("/check")
     public String checkPalindrome(@RequestParam String input) {
